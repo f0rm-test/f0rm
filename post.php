@@ -1,4 +1,5 @@
 <?php
+ header('Access-Control-Allow-Origin: *');
   if($_POST){
     //echo "<p id='p'></p>";
     //'<script type="text/JavaScript"> 
